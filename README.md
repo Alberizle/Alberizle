@@ -1,5 +1,4 @@
-- 👋 <!-- Olá, sou @Alberizle ! Entrei a pouco tempo no Github, e meu propósito é compartilhar e adquirir conhecimentos;
-- 👀 Tenho interesses em trabalhos relacionados a Front-end;
-- 🌱 Atualmente estou aprendendo a ser mais ousada e inovadora em meus projétos, completei apenas 1 ano estudando programação, e meu objetivo é  crescer continuamente;
-- 💞️ Estou procurando colaborar de acordo com as necessidades do mercado;
-- 📫 Como me encontrar ? Acesse meu LinkedIn "Alexia Alberiz".
+- 👩‍🎓 Hello, I`m Alexia Alberiz ! How Are You ?
+- 💻I`m a Front-End developer in training.
+- 📨 Let`s connect ? LinkedIn: Alexia Alberiz
+- ♀️💞️ Ela/Dela.
