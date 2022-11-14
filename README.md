@@ -1,5 +1,5 @@
 ## Olá, sou Alexia Alberiz ! Tudo beeem ?🤍
-- 💻I`m a Front-End developer in training.
+- 💻I`m a Front-End developer in training and I currently work with task automation using the Automation Anywhere tool..
 - 📨 Let`s to share code ?
 
 ##
